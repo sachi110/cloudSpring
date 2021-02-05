@@ -1,5 +1,5 @@
 server:
-  port: 9297
+  port: 9296
 
 spring:
   application:
@@ -10,3 +10,6 @@ spring:
         git:
           uri: https://github.com/sachi110/cloudSpring
           clone-on-start: true
+
+
+
